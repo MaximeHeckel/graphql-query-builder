@@ -7,7 +7,7 @@ A simple graphQL query builder built in Golang
 To install the library run:
 
 ```
-go get github.com/maximeheckel/graphql-query-builder
+go get github.com/MaximeHeckel/graphql-query-builder/querybuilder
 ```
 
 ## Example
